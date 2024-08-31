@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauec\\source\\repos\\teste3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1970E3-FA1B-4D00-93CA-59466960CE85}|teste3\\teste3.csproj|c:\\users\\kauec\\source\\repos\\teste3\\teste3\\faturamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1970E3-FA1B-4D00-93CA-59466960CE85}|teste3\\teste3.csproj|solutionrelative:teste3\\faturamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1970E3-FA1B-4D00-93CA-59466960CE85}|teste3\\teste3.csproj|c:\\users\\kauec\\source\\repos\\teste3\\teste3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1970E3-FA1B-4D00-93CA-59466960CE85}|teste3\\teste3.csproj|solutionrelative:teste3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1970E3-FA1B-4D00-93CA-59466960CE85}|teste3\\teste3.csproj|c:\\users\\kauec\\source\\repos\\teste3\\teste3\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1970E3-FA1B-4D00-93CA-59466960CE85}|teste3\\teste3.csproj|solutionrelative:teste3\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Faturamento.cs",
+              "DocumentMoniker": "C:\\Users\\kauec\\source\\repos\\teste3\\teste3\\Faturamento.cs",
+              "RelativeDocumentMoniker": "teste3\\Faturamento.cs",
+              "ToolTip": "C:\\Users\\kauec\\source\\repos\\teste3\\teste3\\Faturamento.cs",
+              "RelativeToolTip": "teste3\\Faturamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:45:03.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaturamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\kauec\\source\\repos\\teste3\\teste3\\FaturamentoService.cs",
+              "RelativeDocumentMoniker": "teste3\\FaturamentoService.cs",
+              "ToolTip": "C:\\Users\\kauec\\source\\repos\\teste3\\teste3\\FaturamentoService.cs",
+              "RelativeToolTip": "teste3\\FaturamentoService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAD4v1QAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:44:16.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauec\\source\\repos\\teste3\\teste3\\Program.cs",
+              "RelativeDocumentMoniker": "teste3\\Program.cs",
+              "ToolTip": "C:\\Users\\kauec\\source\\repos\\teste3\\teste3\\Program.cs",
+              "RelativeToolTip": "teste3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:42:25.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

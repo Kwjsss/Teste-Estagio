@@ -1,0 +1,10 @@
+C:\Users\kauec\source\repos\teste3\teste3\bin\Debug\teste3.exe.config
+C:\Users\kauec\source\repos\teste3\teste3\bin\Debug\teste3.exe
+C:\Users\kauec\source\repos\teste3\teste3\bin\Debug\teste3.pdb
+C:\Users\kauec\source\repos\teste3\teste3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kauec\source\repos\teste3\teste3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kauec\source\repos\teste3\teste3\obj\Debug\teste3.csproj.AssemblyReference.cache
+C:\Users\kauec\source\repos\teste3\teste3\obj\Debug\teste3.csproj.CoreCompileInputs.cache
+C:\Users\kauec\source\repos\teste3\teste3\obj\Debug\teste3.csproj.Up2Date
+C:\Users\kauec\source\repos\teste3\teste3\obj\Debug\teste3.exe
+C:\Users\kauec\source\repos\teste3\teste3\obj\Debug\teste3.pdb

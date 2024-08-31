@@ -1,0 +1,7 @@
+C:\Users\kauec\source\repos\teste4\teste4\bin\Debug\teste4.exe.config
+C:\Users\kauec\source\repos\teste4\teste4\bin\Debug\teste4.exe
+C:\Users\kauec\source\repos\teste4\teste4\bin\Debug\teste4.pdb
+C:\Users\kauec\source\repos\teste4\teste4\obj\Debug\teste4.csproj.AssemblyReference.cache
+C:\Users\kauec\source\repos\teste4\teste4\obj\Debug\teste4.csproj.CoreCompileInputs.cache
+C:\Users\kauec\source\repos\teste4\teste4\obj\Debug\teste4.exe
+C:\Users\kauec\source\repos\teste4\teste4\obj\Debug\teste4.pdb
